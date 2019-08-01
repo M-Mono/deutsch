@@ -6,9 +6,10 @@ tags = ["词法：介词", "词法：动词", "词法：动介搭配"]
 
 ### 固定搭配：动词 & 介词
 
-**Feste Verbindungen: Verben mit Präpositionen:**
+---
+下面是一些常用的动词介词搭配：
 
-| Verb & Präposition     | Kasus | Beispiel                                                             | 翻译                                     |
+| Verb & Präposition     | Kasus | Beispiel                                                             | 中文                                     |
 | ---------------------- | ----- | -------------------------------------------------------------------- | ---------------------------------------- |
 | abhängen von           | + D   | Ob wir fahren, hängt vom Wetter ab.                                  | 我们是否出行取决于天气。                 |
 | achten auf             | + A   | Bitte achte auf den neuen Mantel.                                    | 请当心新外套。                           |
@@ -67,7 +68,7 @@ tags = ["词法：介词", "词法：动词", "词法：动介搭配"]
 | hoffen auf             | + A   | Im März hoffen alle auf warme Frühlingstage.                         | 大家都希望三月能有春天般温暖的感觉。     |
 | hören von              | + D   | Ich habe seit Sonntag nichts von Piet gehört.                        | 自周日以来我没有收到过Piet的消息。       |
 | sich informieren über  | + A   | Auf der Messe kann man sich über die neue Technologie informieren.   | 在展会上人们可以了解新技术。             |
-| sich interessieren für | + A   | Monika interessiert sich für ein Smartphone.                         | Monika对智能手机很感兴趣。              |
+| sich interessieren für | + A   | Monika interessiert sich für ein Smartphone.                         | Monika对智能手机很感兴趣。               |
 | klagen über            | + A   | Frauen klagen häufig über Kopfschmerzen.                             | 女性们经常抱怨头痛。                     |
 | kämpfen für            | + A   | Die Gewerkschaft kämpft für höhere Löhne.                            | 工会正在争取更高的工资。                 |
 | kommen zu              | + D   | In der Besprechung kam es zu einem Streit.                           | 会议中产生了一个争议。                   |

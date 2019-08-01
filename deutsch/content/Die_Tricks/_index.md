@@ -8,6 +8,6 @@ weight = 99
 
 ---
 
-[<i class="fas fa-check"></i> 用法模式](./strukturformel)
+[<i class="fas fa-arrow-circle-right"></i> 用法模式](./strukturformel)
 
 ---

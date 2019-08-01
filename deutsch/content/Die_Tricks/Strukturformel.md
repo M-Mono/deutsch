@@ -40,7 +40,7 @@ tags = ["词法：介词", "词法：动词", "秘笈"]
 记住这三个用法模式，那么这些词“加不加sich，sich是第几格，加不加介词，介词加第几格？”全部解决了。
 
 - sich für etw. interessieren中，sich是第四格，因为不是sich etw.的形式；für加第四格，因为für只加第四格。
-- an etw. interessiert sein和Interesse an etw. haben中的an都是加第三格，因为an是静三动四的九个介词之一，并且可以类比静三去理解（附着在...上）。同理，an etw. teilnehmen中的an也是加第三格（Teil an一个第三格）。但是an jn. denken中an加第四格，因为这里无法用静三动四去理解，那么这样的介词就加第四格。
+- an etw. interessiert sein和Interesse an etw. haben中的an都是加第三格，因为an是静三动四的九个介词之一，并且可以类比静三去理解（附着在…上）。同理，an etw. teilnehmen中的an也是加第三格（Teil an一个第三格）。但是an jn. denken中an加第四格，因为这里无法用静三动四去理解，那么这样的介词就加第四格。
 
 如果用法结构积累了很多，还会在里面发现一些规律，更加方便记忆。反义和近义的词它们的用法结构一般是一致的，例如：sich bei jm. für etw. entschuldigen/bedanken, nach etw. aussehen/riechen/klingen。
 

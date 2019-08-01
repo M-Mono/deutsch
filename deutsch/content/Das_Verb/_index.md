@@ -8,6 +8,6 @@ weight = 1
 
 ---
 
-[<i class="fas fa-check"></i>](./)
+[<i class="fas fa-arrow-circle-right"></i>](./)
 
 ---
