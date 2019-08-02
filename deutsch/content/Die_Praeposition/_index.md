@@ -23,3 +23,5 @@ weight = 2
 [<i class="fas fa-arrow-circle-right"></i> 固定搭配：动词 & 介词](./feste_verbindungen_verben_mit_praepositionen)
 
 ---
+
+<center><i class="fas fa-bookmark"></i></center>

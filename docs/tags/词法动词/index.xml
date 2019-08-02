@@ -2,36 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>词法：动词 on 超简德语手册</title>
-    <link>http://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E5%8A%A8%E8%AF%8D/</link>
+    <link>https://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E5%8A%A8%E8%AF%8D/</link>
     <description>Recent content in 词法：动词 on 超简德语手册</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E5%8A%A8%E8%AF%8D/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E5%8A%A8%E8%AF%8D/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>固定搭配：动词 &amp; 介词</title>
-      <link>http://deutsch.yangliu.cloud/die_praeposition/feste_verbindungen_verben_mit_praepositionen/</link>
+      <title>动词概述</title>
+      <link>https://deutsch.yangliu.cloud/das_verb/das_verb_ueberischt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://deutsch.yangliu.cloud/die_praeposition/feste_verbindungen_verben_mit_praepositionen/</guid>
+      <guid>https://deutsch.yangliu.cloud/das_verb/das_verb_ueberischt/</guid>
+      <description>动词概述 由于德语和英语同属西日耳曼语支的语言，因此有些基本辞汇在形态上不仅相似，亦为同源字，但有些在德语中为弱变化动词的动词，其英语同源字的变化不规则（如德语的machen和英语的to make即其一例），反之亦然。另外，以下是三个动词对部分人称的现在直陈式变位：
+    bauen弱变化 sein不规则 lesen强变化     ich baue bin lese   du baust bist liest   er, sie, es baut ist liest   wir bauen sind lesen   ihr baut seid lest   sie, Sie bauen sind lesen    动词分类 德语的动词分成数类，分别为强变化、弱变化、强弱混合变化以及不规则变化等，德语动词当中，变化最不规则的当属sein系列的变化。
+ 强变化动词 弱变化动词 强弱混合变化动词 不规则变化动词  动词时态 德语中一共有六种时态：
+ 现在时 现在完成时 过去时 过去完成时 将来时（第一将来时） 将来完成时（第二将来时）     时态 德语 汉语     现在时 Ich baue 我建造   现在完成时 Ich habe gebaut 我建造过   过去时 Ich baute 我曾建造   过去完成时 Ich hatte gebaut 我曾建造过   将来时（第一将来时） Ich werde bauen 我将建造   第二将来时（将来完成时） Ich werde gebaut haben 我将建造成    通常过去时与完成时表达的含义类似，可以混用；但是在口语中，人们更偏向于用完成时，而在书面语中用过去时。原因是过去式的发音不及完成式的第二分词方便。</description>
+    </item>
+    
+    <item>
+      <title>固定搭配：动词 &amp; 介词</title>
+      <link>https://deutsch.yangliu.cloud/die_praeposition/feste_verbindungen_verben_mit_praepositionen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deutsch.yangliu.cloud/die_praeposition/feste_verbindungen_verben_mit_praepositionen/</guid>
       <description>固定搭配：动词 &amp;amp; 介词 下面是一些常用的动词介词搭配：
    Verb &amp;amp; Präposition Kasus Beispiel 中文     abhängen von + D Ob wir fahren, hängt vom Wetter ab. 我们是否出行取决于天气。   achten auf + A Bitte achte auf den neuen Mantel. 请当心新外套。   anfangen mit + D Ich fange mit der Übung an. 我从练习题开始。   ankommen auf + A Es kommt auf den richtigen Preis an. 这取决于合适的价格。   antworten auf + A Bitte antworten Sie heute auf den Brief.</description>
     </item>
     
     <item>
       <title>用法模式</title>
-      <link>http://deutsch.yangliu.cloud/die_tricks/strukturformel/</link>
+      <link>https://deutsch.yangliu.cloud/die_tricks/strukturformel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://deutsch.yangliu.cloud/die_tricks/strukturformel/</guid>
-      <description>Strukturformel · 用法模式 用法模式（Strukturformel）就是形如sich auf etwas freuen这种形式，
+      <guid>https://deutsch.yangliu.cloud/die_tricks/strukturformel/</guid>
+      <description>Strukturformel · 用法模式 用法模式（Strukturformel）就是形如sich auf etwas freuen这种形式。
  人用jemand, jemandes, jemandem, jemanden四个格的四种形式，分别缩写为jd., js., jm., jn.， 物用etwas， 形容词用irgendwie做占位符，静三用irgendwo，动四用irgendwohin。  举几个例子说明，
  sich über jn. ärgern
  这个用法模式本身是有含义的，“对某人生气”，造句的时候非常方便，把占位符替换一下就行了, Er hat sich sehr über seinen Bruder geärgert。如果记成sich ärgern加über加第四格，这要造句的时候可得要反应好一会儿了，因为这种记法偏离实际的应用，德语、汉语和符号混用，语序也不恰当。  sich auf etw. freuen
- “对未来的事儿高兴；期待”，从逻辑上讲，可以期待物，也可以期待人，所以用法结构记成sich auf jn. freuen似乎更好，因为jemanden能显格。但是没必要这要改，因为确实auf etw.的频率更高一些，并且auf这种静三动四的介词不用在静三动四的场合的时候是加第四格的，不会产生难以判断格的情况。  sich anziehen / sich etw. anziehen
- sich anziehen是“穿衣服”，sich etw. anziehen是“穿具体什么衣服”。如果统一按用法模式记，那sich的格是很容易判断的，只要出现形如sich etw. V. 的形式（V.是动词），sich一定是第三格；而形如sich (PP) V.的形式（PP是介词短语）中，sich一定是第四格，除非这个动词本来就只支配第三格（如helfen）。   可以 jn. zu etw. einladen，也可以jn.</description>
+ “对未来的事儿高兴；期待”，从逻辑上讲，可以期待物，也可以期待人，所以用法结构记成sich auf jn. freuen似乎更好，因为jemanden能显格。但是没必要这要改，因为确实auf etw.的频率更高一些，并且auf这种静三动四的介词不用在静三动四的场合的时候是加第四格的，不会产生难以判断格的情况。  sich anziehen/sich etw. anziehen
+ sich anziehen是“穿衣服”，sich etw. anziehen是“穿具体什么衣服”。如果统一按用法模式记，那sich的格是很容易判断的，只要出现形如sich etw. V. 的形式（V.是动词），sich一定是第三格；而形如sich (PP) V.的形式（PP是介词短语）中，sich一定是第四格，除非这个动词本来就只支配第三格（如helfen）。   可以 jn. zu etw. einladen，也可以jn. irgendwohin einladen。可以jn.</description>
     </item>
     
   </channel>

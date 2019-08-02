@@ -1,2 +1,2 @@
-hugo -t hugo-theme-learn --baseUrl="http://deutsch.yangliu.cloud/"
+hugo -t hugo-theme-learn --baseUrl="https://deutsch.yangliu.cloud/"
 pause

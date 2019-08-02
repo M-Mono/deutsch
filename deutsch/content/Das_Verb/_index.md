@@ -8,6 +8,8 @@ weight = 1
 
 ---
 
-[<i class="fas fa-arrow-circle-right"></i>](./)
+[<i class="fas fa-arrow-circle-right"></i> 动词概述](./das_verb_ueberischt)
 
 ---
+
+<center><i class="fas fa-bookmark"></i></center>

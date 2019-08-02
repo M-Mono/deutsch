@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>超简德语手册</title>
-    <link>http://deutsch.yangliu.cloud/</link>
+    <link>https://deutsch.yangliu.cloud/</link>
     <description>Recent content on 超简德语手册</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://deutsch.yangliu.cloud/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://deutsch.yangliu.cloud/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>介词概述</title>
-      <link>http://deutsch.yangliu.cloud/die_praeposition/die_praeposition_ueberischt/</link>
+      <link>https://deutsch.yangliu.cloud/die_praeposition/die_praeposition_ueberischt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://deutsch.yangliu.cloud/die_praeposition/die_praeposition_ueberischt/</guid>
+      <guid>https://deutsch.yangliu.cloud/die_praeposition/die_praeposition_ueberischt/</guid>
       <description>介词概述 德语中有的介词要求其后的名词用第二格，有的要求第三格，有的要求第四格，有的根据语句中的不同情况有时要求三格，有时要求四格。德语的介词有时会和冠词缩略成一个单词。例如im是in dem的缩写；zum是zu dem的缩写；fürs是für das的缩写。
  德语介词通常为前置词，置于其所支配的名词、代词及副词前。组成介词词组，表示动作、行为的方向、对象、处所、时间等意义。 介词不能单独使用，也不能重叠实用。 一些介词仅支配一个格位，如第四格、第三格或第二格。 也有一些介词可以支配两个格位，比如支配第三格或第四格。  更多…… 今天德语中大概有200个左右的介词，其中只有一小部分被经常使用。这些介词的起源其实可以追溯到地点副词上。
    介词 副词     vor vorn   hinter hintern   unter unten   in innen   aus außen    还有一些副词和形容词也可以做介词而不变化。例如：Rechts und links des Fusses erstrecken sich weite Wissen. 广阔的草原向河的左右两岸延伸。
@@ -24,77 +24,89 @@
     </item>
     
     <item>
-      <title>支配第二格介词</title>
-      <link>http://deutsch.yangliu.cloud/die_praeposition/praepositionen_gentitiv/</link>
+      <title>动词概述</title>
+      <link>https://deutsch.yangliu.cloud/das_verb/das_verb_ueberischt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://deutsch.yangliu.cloud/die_praeposition/praepositionen_gentitiv/</guid>
+      <guid>https://deutsch.yangliu.cloud/das_verb/das_verb_ueberischt/</guid>
+      <description>动词概述 由于德语和英语同属西日耳曼语支的语言，因此有些基本辞汇在形态上不仅相似，亦为同源字，但有些在德语中为弱变化动词的动词，其英语同源字的变化不规则（如德语的machen和英语的to make即其一例），反之亦然。另外，以下是三个动词对部分人称的现在直陈式变位：
+    bauen弱变化 sein不规则 lesen强变化     ich baue bin lese   du baust bist liest   er, sie, es baut ist liest   wir bauen sind lesen   ihr baut seid lest   sie, Sie bauen sind lesen    动词分类 德语的动词分成数类，分别为强变化、弱变化、强弱混合变化以及不规则变化等，德语动词当中，变化最不规则的当属sein系列的变化。
+ 强变化动词 弱变化动词 强弱混合变化动词 不规则变化动词  动词时态 德语中一共有六种时态：
+ 现在时 现在完成时 过去时 过去完成时 将来时（第一将来时） 将来完成时（第二将来时）     时态 德语 汉语     现在时 Ich baue 我建造   现在完成时 Ich habe gebaut 我建造过   过去时 Ich baute 我曾建造   过去完成时 Ich hatte gebaut 我曾建造过   将来时（第一将来时） Ich werde bauen 我将建造   第二将来时（将来完成时） Ich werde gebaut haben 我将建造成    通常过去时与完成时表达的含义类似，可以混用；但是在口语中，人们更偏向于用完成时，而在书面语中用过去时。原因是过去式的发音不及完成式的第二分词方便。</description>
+    </item>
+    
+    <item>
+      <title>支配第二格介词</title>
+      <link>https://deutsch.yangliu.cloud/die_praeposition/praepositionen_gentitiv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deutsch.yangliu.cloud/die_praeposition/praepositionen_gentitiv/</guid>
       <description>仅支配第二格的介词 德语的接第二格的介词最多，它们一般“样子比较怪，单词也比较长”。
  多用于书面，口语中不经常使用。 有些接第二格的介词可以放在被修饰的名词前，也可放在后面，比较灵活。 有的是由两部分组成，被修饰的名词则被放在中间。 另外这些介词一般与其所修饰的名词之间还有不定冠词、定冠词、形容词或人称代词时才接第二格，否则常接第三格或用von带出第三格。例如：  trotz starker Schneefälle 接二格 trotz Schneefällen 接三格 infolge des Unwetters 接二格 infolge von Unwetters 接三格       支配第二格     ungeachtet 尽管Ungeachtet der Tatsache, dass er störte, blieb er im Raum. 尽管他在屋里碍事，他还是呆在那。   mittels 利用Er öffnete das Schloss mittels einer Büroklammer. 他用曲别针将锁打开。   mangels 因缺少Mangels der Nachfrage wurde das Konzert abgesagt. 因无人感兴趣，音乐会取消了。   um…, willen 为…起见Von mir aus, nur um des lieben Friedens willen.</description>
     </item>
     
     <item>
       <title>支配第二、三格介词</title>
-      <link>http://deutsch.yangliu.cloud/die_praeposition/praepositionen_genitiv_oder_dativ/</link>
+      <link>https://deutsch.yangliu.cloud/die_praeposition/praepositionen_genitiv_oder_dativ/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://deutsch.yangliu.cloud/die_praeposition/praepositionen_genitiv_oder_dativ/</guid>
-      <description> 支配第二格或第三格的介词 dank、laut这两个介词支配第二格或第三格。尤其是介词dank起初是接第三格的，但现在越来越常用于接第二格。
-    支配第二格     dank 赖，蒙，由于Dank Seiner Mithilfe konnten wir gewinnen. 蒙您帮忙，我们才能取胜。   laut 按照Laut eines Gutachtens ist Lärm schädlich. 检测人员称噪音是有害的。    </description>
+      <guid>https://deutsch.yangliu.cloud/die_praeposition/praepositionen_genitiv_oder_dativ/</guid>
+      <description>支配第二格或第三格的介词 dank、laut这两个介词支配第二格或第三格。尤其是介词dank起初是接第三格的，但现在越来越常用于接第二格。
+    支配第二格     dank 赖，蒙，由于Dank Seiner Mithilfe konnten wir gewinnen. 蒙您帮忙，我们才能取胜。   laut 按照，根据Laut eines Gutachtens ist Lärm schädlich. 根据检测人员地说法，噪音是有害的。</description>
     </item>
     
     <item>
       <title>支配第三格介词</title>
-      <link>http://deutsch.yangliu.cloud/die_praeposition/praepositionen_dativ/</link>
+      <link>https://deutsch.yangliu.cloud/die_praeposition/praepositionen_dativ/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://deutsch.yangliu.cloud/die_praeposition/praepositionen_dativ/</guid>
+      <guid>https://deutsch.yangliu.cloud/die_praeposition/praepositionen_dativ/</guid>
       <description>仅支配第三格的介词 aus、bei、nach、von、zu这五个介词仅支配第三格。
     支配第三格     aus 来自、从…里出来、用…做成、（时间）始于Ich komme aus Deutschland. 我来自德国。Die Bluse ist aus reiner Seide. 衬衫是纯丝绸制成的。   bei 在某人处、在某城市附近、在某公司工作Ich wohne bei Familie Schubert. 我住在舒伯特家里。Er arbeitet bei Siemens. 我在西门子工作。   nach 前往、在…之后、按照Ich will nach Deutschland fliegen. 我想飞到德国。Nach dem Unterricht gehen wir sofort zum Essen in die Mensa. 课后我们马上去食堂吃饭。   von 从（某人那里或某处）过来Er kommt von zu Hause. 他从家里过来。   zu 去（某人处或某场所）、在…时候Ich gehe zu meinen Freund.</description>
     </item>
     
     <item>
       <title>支配第三、四格介词</title>
-      <link>http://deutsch.yangliu.cloud/die_praeposition/praepositionen_dativ_oder_akkusativ/</link>
+      <link>https://deutsch.yangliu.cloud/die_praeposition/praepositionen_dativ_oder_akkusativ/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://deutsch.yangliu.cloud/die_praeposition/praepositionen_dativ_oder_akkusativ/</guid>
+      <guid>https://deutsch.yangliu.cloud/die_praeposition/praepositionen_dativ_oder_akkusativ/</guid>
       <description>支配第四格或第三格的介词 an、auf、hinter、in、neben、über、unter、vor、zwischen这九个常用的介词用于地点时，可支配第四格或第三格。
  这类介词表示方向，又称做方位介词（Lokale Präposition）。 第四格表示动态方向，第三格表示静态位置，即俗称的“静三动四”。 在动介搭配中如果无法套用“静三动四”理解，则原则上加第四格。      支配第四格（Frage: Wohin?） 支配第三格（Frage: Wo?）     an 到…旁/到…上Wir setzen uns ans Fenster. 我们做到窗边。 在…旁/在…上Wir sitzen am Fenster. 我们坐在窗边。   auf 到…上Sie setzt sich auf den Stuhl. 她坐到椅子上。 在…上Sie sitzt auf dem Stuhl. 她坐在椅子上。   hinter 到…后面Er bringt das Fahrrad hinter das Haus. 他把自行车放到屋后。 在…后面Es steht hinter dem Haus. 它在屋后。   in 到…里Sie legt das Brot in den Korb.</description>
     </item>
     
     <item>
       <title>支配第四格介词</title>
-      <link>http://deutsch.yangliu.cloud/die_praeposition/praepositionen_akkusativ/</link>
+      <link>https://deutsch.yangliu.cloud/die_praeposition/praepositionen_akkusativ/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://deutsch.yangliu.cloud/die_praeposition/praepositionen_akkusativ/</guid>
+      <guid>https://deutsch.yangliu.cloud/die_praeposition/praepositionen_akkusativ/</guid>
       <description>支配第四格的介词 bis、durch、für、gegen、je、ohne、um、wider这些介词仅支配第四格。
     支配第四格     bis 等到、直到、到…为止 Bis 10 Uhr komme ich zu dir. 最晚十点我到你这儿来。   durch 经过、通过、让 Wir können froh sein, dass wir hier durch sind. 我们可以感到欣慰了，因为我们完成了。   für 为了Ich danke Ihnen für den Besuch. 我感谢您的拜访。   gegen 朝着、大约（只用于时间）、反对Gegen 10 Uhr komme ich zu dir. 大约十点我到你这儿来。Meine Eltern sind gegen das Rauchen. 我父母反对吸烟。   je 每个  Je Person gibt es ein Ei.</description>
     </item>
     
     <item>
       <title>固定搭配：动词 &amp; 介词</title>
-      <link>http://deutsch.yangliu.cloud/die_praeposition/feste_verbindungen_verben_mit_praepositionen/</link>
+      <link>https://deutsch.yangliu.cloud/die_praeposition/feste_verbindungen_verben_mit_praepositionen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://deutsch.yangliu.cloud/die_praeposition/feste_verbindungen_verben_mit_praepositionen/</guid>
+      <guid>https://deutsch.yangliu.cloud/die_praeposition/feste_verbindungen_verben_mit_praepositionen/</guid>
       <description>固定搭配：动词 &amp;amp; 介词 下面是一些常用的动词介词搭配：
    Verb &amp;amp; Präposition Kasus Beispiel 中文     abhängen von + D Ob wir fahren, hängt vom Wetter ab. 我们是否出行取决于天气。   achten auf + A Bitte achte auf den neuen Mantel. 请当心新外套。   anfangen mit + D Ich fange mit der Übung an. 我从练习题开始。   ankommen auf + A Es kommt auf den richtigen Preis an. 这取决于合适的价格。   antworten auf + A Bitte antworten Sie heute auf den Brief.</description>
     </item>
     
     <item>
       <title>用法模式</title>
-      <link>http://deutsch.yangliu.cloud/die_tricks/strukturformel/</link>
+      <link>https://deutsch.yangliu.cloud/die_tricks/strukturformel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://deutsch.yangliu.cloud/die_tricks/strukturformel/</guid>
-      <description>Strukturformel · 用法模式 用法模式（Strukturformel）就是形如sich auf etwas freuen这种形式，
+      <guid>https://deutsch.yangliu.cloud/die_tricks/strukturformel/</guid>
+      <description>Strukturformel · 用法模式 用法模式（Strukturformel）就是形如sich auf etwas freuen这种形式。
  人用jemand, jemandes, jemandem, jemanden四个格的四种形式，分别缩写为jd., js., jm., jn.， 物用etwas， 形容词用irgendwie做占位符，静三用irgendwo，动四用irgendwohin。  举几个例子说明，
  sich über jn. ärgern
  这个用法模式本身是有含义的，“对某人生气”，造句的时候非常方便，把占位符替换一下就行了, Er hat sich sehr über seinen Bruder geärgert。如果记成sich ärgern加über加第四格，这要造句的时候可得要反应好一会儿了，因为这种记法偏离实际的应用，德语、汉语和符号混用，语序也不恰当。  sich auf etw. freuen
- “对未来的事儿高兴；期待”，从逻辑上讲，可以期待物，也可以期待人，所以用法结构记成sich auf jn. freuen似乎更好，因为jemanden能显格。但是没必要这要改，因为确实auf etw.的频率更高一些，并且auf这种静三动四的介词不用在静三动四的场合的时候是加第四格的，不会产生难以判断格的情况。  sich anziehen / sich etw. anziehen
- sich anziehen是“穿衣服”，sich etw. anziehen是“穿具体什么衣服”。如果统一按用法模式记，那sich的格是很容易判断的，只要出现形如sich etw. V. 的形式（V.是动词），sich一定是第三格；而形如sich (PP) V.的形式（PP是介词短语）中，sich一定是第四格，除非这个动词本来就只支配第三格（如helfen）。   可以 jn. zu etw. einladen，也可以jn.</description>
+ “对未来的事儿高兴；期待”，从逻辑上讲，可以期待物，也可以期待人，所以用法结构记成sich auf jn. freuen似乎更好，因为jemanden能显格。但是没必要这要改，因为确实auf etw.的频率更高一些，并且auf这种静三动四的介词不用在静三动四的场合的时候是加第四格的，不会产生难以判断格的情况。  sich anziehen/sich etw. anziehen
+ sich anziehen是“穿衣服”，sich etw. anziehen是“穿具体什么衣服”。如果统一按用法模式记，那sich的格是很容易判断的，只要出现形如sich etw. V. 的形式（V.是动词），sich一定是第三格；而形如sich (PP) V.的形式（PP是介词短语）中，sich一定是第四格，除非这个动词本来就只支配第三格（如helfen）。   可以 jn. zu etw. einladen，也可以jn. irgendwohin einladen。可以jn.</description>
     </item>
     
   </channel>

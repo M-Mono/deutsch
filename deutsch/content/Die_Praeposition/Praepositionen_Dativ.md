@@ -20,3 +20,5 @@ aus、bei、nach、von、zu这五个介词仅支配第三格。
 | **zu**   | **去（某人处或某场所）、在…时候**</br>Ich gehe zu meinen Freund. 我去我朋友那儿。</br>Er geht zur Post/Arbeit/Polizei. 他去邮局/去上班/去警局。                         |
 
 ---
+
+<center><i class="fas fa-bookmark"></i></center>

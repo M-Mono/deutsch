@@ -123,3 +123,7 @@ tags = ["词法：介词", "词法：动词", "词法：动介搭配"]
 | zuschauen bei          | + D   | Kann ich dir bei der Reparatur zuschauen?                            | 我能在一旁看你维修吗？                   |
 | zusehen bei            | + D   | Willst du mir beim Kochen zusehen?                                   | 你想看我做饭吗？                         |
 | zweifeln an            | + D   | John zweifelt daran, dass sein Sohn die Wahrheit gesagt hat.         | John怀疑他儿子说的不是真相。             |
+
+---
+
+<center><i class="fas fa-bookmark"></i></center>

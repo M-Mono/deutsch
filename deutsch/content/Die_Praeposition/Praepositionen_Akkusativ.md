@@ -22,3 +22,5 @@ bis、durch、für、gegen、je、ohne、um、wider这些介词仅支配第四�
 | **wider** | **反对、背叛**</br>                                                                                                                                    |
 
 ---
+
+<center><i class="fas fa-bookmark"></i></center>

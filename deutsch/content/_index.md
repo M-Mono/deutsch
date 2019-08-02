@@ -15,4 +15,4 @@ pre = "<i class='fas fa-map-signs'></i> "
 
 ---
 
-[<div align="right"><font size="2">2019-08-01 <i class="fas fa-code-branch"></i></font></div>](https://github.com/M-Mono/deutsch)
+[<div align="right"><font size="2">2019-08-02 <i class="fas fa-code-branch"></i></font></div>](https://github.com/M-Mono/deutsch)

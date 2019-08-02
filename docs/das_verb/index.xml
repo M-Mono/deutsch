@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Das Verb · 动词 on 超简德语手册</title>
-    <link>http://deutsch.yangliu.cloud/das_verb/</link>
+    <link>https://deutsch.yangliu.cloud/das_verb/</link>
     <description>Recent content in Das Verb · 动词 on 超简德语手册</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://deutsch.yangliu.cloud/das_verb/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://deutsch.yangliu.cloud/das_verb/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>动词概述</title>
+      <link>https://deutsch.yangliu.cloud/das_verb/das_verb_ueberischt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deutsch.yangliu.cloud/das_verb/das_verb_ueberischt/</guid>
+      <description>动词概述 由于德语和英语同属西日耳曼语支的语言，因此有些基本辞汇在形态上不仅相似，亦为同源字，但有些在德语中为弱变化动词的动词，其英语同源字的变化不规则（如德语的machen和英语的to make即其一例），反之亦然。另外，以下是三个动词对部分人称的现在直陈式变位：
+    bauen弱变化 sein不规则 lesen强变化     ich baue bin lese   du baust bist liest   er, sie, es baut ist liest   wir bauen sind lesen   ihr baut seid lest   sie, Sie bauen sind lesen    动词分类 德语的动词分成数类，分别为强变化、弱变化、强弱混合变化以及不规则变化等，德语动词当中，变化最不规则的当属sein系列的变化。
+ 强变化动词 弱变化动词 强弱混合变化动词 不规则变化动词  动词时态 德语中一共有六种时态：
+ 现在时 现在完成时 过去时 过去完成时 将来时（第一将来时） 将来完成时（第二将来时）     时态 德语 汉语     现在时 Ich baue 我建造   现在完成时 Ich habe gebaut 我建造过   过去时 Ich baute 我曾建造   过去完成时 Ich hatte gebaut 我曾建造过   将来时（第一将来时） Ich werde bauen 我将建造   第二将来时（将来完成时） Ich werde gebaut haben 我将建造成    通常过去时与完成时表达的含义类似，可以混用；但是在口语中，人们更偏向于用完成时，而在书面语中用过去时。原因是过去式的发音不及完成式的第二分词方便。</description>
+    </item>
     
   </channel>
 </rss>

@@ -6,7 +6,9 @@ tags = ["词法：介词", "词法：动词", "秘笈"]
 
 ### Strukturformel · 用法模式
 
-用法模式（Strukturformel）就是形如sich auf etwas freuen这种形式，
+---
+
+用法模式（Strukturformel）就是形如sich auf etwas freuen这种形式。
 
 - 人用jemand, jemandes, jemandem, jemanden四个格的四种形式，分别缩写为jd., js., jm., jn.，
 - 物用etwas，
@@ -20,7 +22,7 @@ tags = ["词法：介词", "词法：动词", "秘笈"]
 - sich auf etw. freuen
   - “对未来的事儿高兴；期待”，从逻辑上讲，可以期待物，也可以期待人，所以用法结构记成sich auf jn. freuen似乎更好，因为jemanden能显格。但是没必要这要改，因为确实auf etw.的频率更高一些，并且auf这种静三动四的介词不用在静三动四的场合的时候是加第四格的，不会产生难以判断格的情况。
 
-- sich anziehen / sich etw. anziehen
+- sich anziehen/sich etw. anziehen
   - sich anziehen是“穿衣服”，sich etw. anziehen是“穿具体什么衣服”。如果统一按用法模式记，那sich的格是很容易判断的，只要出现形如sich etw. V. 的形式（V.是动词），sich一定是第三格；而形如sich (PP) V.的形式（PP是介词短语）中，sich一定是第四格，除非这个动词本来就只支配第三格（如helfen）。
 
 可以 jn. zu etw. einladen，也可以jn. irgendwohin einladen。可以jn. anrufen，也可以bei jm. anrufen，进而可以推出irgendwo anrufen也可以。这样就把一个动词的用法理顺了。
@@ -45,3 +47,7 @@ tags = ["词法：介词", "词法：动词", "秘笈"]
 如果用法结构积累了很多，还会在里面发现一些规律，更加方便记忆。反义和近义的词它们的用法结构一般是一致的，例如：sich bei jm. für etw. entschuldigen/bedanken, nach etw. aussehen/riechen/klingen。
 
 还有一些动词与介词an, in, auf连用时，若介词表示一种静止状态，即回答wo（在哪里）的问题时，介词就支配第三格；若表示一种动向，即回答wohin（往哪里去）的问题时，就支配第四格。
+
+---
+
+<center><i class="fas fa-bookmark"></i></center>

@@ -1,7 +1,7 @@
 +++
 title = "介词概述"
 pre = "<i class='fas fa-arrow-circle-right'></i> "
-tags = ["词法：介词", "词法：介词搭配", "词法：静三动四"]
+tags = ["词法：介词"]
 weight = 1
 +++
 
@@ -68,3 +68,5 @@ weight = 1
 | [支配第四格介词](../praepositionen_akkusativ)                    | bis </br>durch </br>für </br>gegen </br>je </br>ohne </br> um </br>wider                                                                                                                                                                                                                                                        | 等到、直到、到…为止 </br>经过、通过、让 </br>给、为了、替</br>朝着; 大约时间、反对 </br>每个 </br>无、没有 </br> 环绕、在…时 </br>反对、背叛                                                                                                                                                                                    |
 
 ---
+
+<center><i class="fas fa-bookmark"></i></center>

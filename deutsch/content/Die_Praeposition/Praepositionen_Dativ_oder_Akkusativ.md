@@ -27,3 +27,5 @@ an、auf、hinter、in、neben、über、unter、vor、zwischen这九个常用�
 | **zwischen**       | **到…之间**</br>Ich stelle das Sofa zwischen den Schreibtisch und die Kommode. 我把沙发放到写字台和衣柜之间。 | **在…之间**</br>Das Sofa steht zwischen dem Schreibtisch und der Kommode. 沙发在写字台和衣柜之间。 |
 
 ---
+
+<center><i class="fas fa-bookmark"></i></center>

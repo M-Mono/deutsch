@@ -42,3 +42,5 @@ weight = 10
 | **infolge**     | **因为**</br>infolge des Unwetters. 因天气异常。                                                                                               |
 
 ---
+
+<center><i class="fas fa-bookmark"></i></center>

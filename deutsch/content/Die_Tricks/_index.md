@@ -11,3 +11,5 @@ weight = 99
 [<i class="fas fa-arrow-circle-right"></i> 用法模式](./strukturformel)
 
 ---
+
+<center><i class="fas fa-bookmark"></i></center>
