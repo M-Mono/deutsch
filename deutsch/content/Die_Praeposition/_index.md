@@ -8,19 +8,14 @@ weight = 2
 
 ---
 
-[<i class="fas fa-arrow-circle-right"></i> 介词概述](./die_praeposition_ueberischt)
+在德语的每句句子中几乎都会出现介词，作为德语学习者却很难完全掌握其用法。根据德语介词的定义，可总结出以下几个最为重要的特性和作用：
 
-[<i class="fas fa-arrow-circle-right"></i> 支配第二格介词](./praepositionen_gentitiv)
+- 德语介词是不可变化的词类。虽然有个别介词能和定冠词融合成一个词，但是这种变化仅仅是表象的。
+- 通常德语介词不可单独作为一个句子成分，而是和其他元素一起组成一个介词短语出现在句子中。
+- 德语介词可将与之有关的句子成分置于一个特定的关系中，包括时间、地点、原因等。
+- 德语介词可以支配其关联名词的格数。
 
-[<i class="fas fa-arrow-circle-right"></i> 支配第二、三格介词](./praepositionen_genitiv_oder_dativ)
-
-[<i class="fas fa-arrow-circle-right"></i> 支配第三格介词](./praepositionen_dativ)
-
-[<i class="fas fa-arrow-circle-right"></i> 支配第三、四格介词](./praepositionen_dativ_oder_akkusativ)
-
-[<i class="fas fa-arrow-circle-right"></i> 支配第四格介词](./praepositionen_akkusativ)
-
-[<i class="fas fa-arrow-circle-right"></i> 固定搭配：动词 & 介词](./feste_verbindungen_verben_mit_praepositionen)
+虽然Präposition一词在德语中原意为在前面的位置，但并不意味着德语中介词完全都至于关联词之前。根据介词的位置，可将介词大致分为前置、后置、包围型以及可前置也可后置型。大部分典型的介词为前置型，其关联词可以为名词或者名词性代词、地点或时间副词抑或是形容词。
 
 ---
 

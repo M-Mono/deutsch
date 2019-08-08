@@ -8,7 +8,7 @@ weight = 99
 
 ---
 
-[<i class="fas fa-arrow-circle-right"></i> 用法模式](./strukturformel)
+切记各种秘笈只能用来辅助德语学习，仅依靠套用秘笈而不用心理解各种语法规则并不能使你学会德语语法。
 
 ---
 

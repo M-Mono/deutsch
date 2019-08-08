@@ -5,69 +5,192 @@ tags = ["词法：动词"]
 weight = 1
 +++
 
+{{%expand "展开目录……" %}}
+---
+
+# 目录
+
+- [动词概述](#动词概述)
+- [动词的形式](#动词的形式)
+- [变位方式](#变位方式)
+
+---
+{{% /expand%}}
+
 ### 动词概述
+---
+动词在德语中非常重要，它在句子里起着核心作用。德语动词比较复杂，它在不同人称后面要进行变位，如sein在第一人称单数后变为bin。动词sein 非常重要。它除了作行为动词，也可以作完成时中的助动词，如：Er ist gestern gekommen（他是昨天来的）。
+
+### 动词的形式
 
 ---
 
-由于德语和英语同属西日耳曼语支的语言，因此有些基本辞汇在形态上不仅相似，亦为同源字，但有些在德语中为弱变化动词的动词，其英语同源字的变化不规则（如德语的machen和英语的to make即其一例），反之亦然。另外，以下是三个动词对部分人称的现在直陈式变位：
+动词分为限定式（finit）和不限定式（infinit）。不限定式动词顾名思义没有变位，也不显示人称形式。 不限定式动词的形式有：
 
-|             | bauen</br>弱变化 | sein</br>不规则 | lesen</br>强变化 |
-| ----------- | ---------------- | --------------- | ---------------- |
-| ich         | baue             | bin             | lese             |
-| du          | baust            | bist            | liest            |
-| er, sie, es | baut             | ist             | liest            |
-| wir         | bauen            | sind            | lesen            |
-| ihr         | baut             | seid            | lest             |
-| sie, Sie    | bauen            | sind            | lesen            |
+- 不定式动词，动词原形
 
-### 动词分类
+    arbeiten
+
+    laufen
+
+    ruhen
+
+- 第一分词（Partzip Präsens / PI）
+
+    arbeitend
+
+    laufend
+
+    ruhend
+
+- 第二分词（Partzip Perfekt / PII）
+
+    gearbeitet
+
+    gelaufen
+
+    geruht
+
+限定式动词在语句中有一系列的不同的形式。 动词的变化形式依据以下不同的条件：
+
+- 人称与数格（Grammatische Zahl）
+- 语法时态（Grammatische Zeit）
+- 表达方式（Modus od. Aussageweise）
+- 动词语态（Aktiv od. Passiv）
+
+    #### Person und Numerus 人称与格数
+
+    三种不同的人称以单复数的形式出现：
+
+
+    |          | 单数           | 复数      |
+    | -------- | -------------- | --------- |
+    | 第一人称 | ich gehe       | wir gehen |
+    | 第二人称 | du gehst       | ihr geht  |
+    | 第三人称 | er/sie/es geht | sie gehen |
+
+    #### Tempus 时态
+
+    时态有六种：
+
+    - Präsens (Gegenwart)  现在时
+
+        Ich koche.
+
+        Ich schwimme.
+
+    - Perfekt (vollendete Gegenwart) 现在完成时
+
+        Ich habe gekocht.
+
+        Ich bin geschwommen.
+
+    - Präteritum (Vergangenheit, Imperfekt) 过去时
+
+        Ich kochte.
+
+        Ich schwamm.
+
+    - Plusquamperfekt (vollendete Vergangenheit) 过去完成时
+
+        Ich hatte gekocht.
+
+        Ich war geschwommen.
+
+    - Futur I (unvollendete Zukunft) 第一将来时
+
+        Ich werde kochen.
+
+        Ich werde schwimmen.
+
+    - Futur II (vollendete Zukunft) 第二将来时
+
+        Ich werde gekocht haben.
+
+        Ich werde geschwommen sein.
+
+    现在时与过去时的动词为单一形式，其他时态的动词则为组合形式。这种组合形式由助动词sein，haben或者werden与不限定式动词组成。
+
+    第二将来时（又叫将来完成时）Futur II在德语中较少使用，作为时态形式所属之一，实际上它更倾向属于一种表达方式，因为人们在表达时较少关注某事何时发生，更多的是人们关注某事是否有意图或者某事存在希望，或者何事发生了。
+
+    #### Modus 表达方式
+
+    有四种不同的表达方式：
+
+    - 直陈式（Wirklichkeitsform）
+
+        Du bist mein Freund.
+
+    - 第一虚拟式（Möglichkeitsform, wiedergegebene Rede）
+
+        Man sagt, du seist mein Freund.
+
+    - 第二虚拟式（Möglichkeitsform, Unwirklichkeitform）
+
+        Ich würde mich freuen, wenn du mein Freund wärest/wärst. (gedacht, möglich)
+
+        Ich wünschte, du wärest/wärst mein Freund. (unwirklich, nicht möglich)
+
+    - 命令式（Befehlsform）
+
+        Sei mein Freund!
+
+    #### Genus Verbi 动词语态
+
+    动词有两种不同的语态，分为主动和被动。
+
+    - 主动态（Tätigkeitsform od. Aktiv od. Tatform）
+
+        Die Oma wäscht Paul.
+
+    - 被动态（Leideform od. Passiv）
+
+        Paul wird von der Oma gewaschen. (Handlungspassiv 过程被动态)
+
+        Paul ist jetzt endlich gewaschen. (Zustandspassiv 状态被动态)
+
+### 变位方式
 
 ---
 
-德语的动词分成数类，分别为强变化、弱变化、强弱混合变化以及不规则变化等，德语动词当中，变化最不规则的当属sein系列的变化。
+根据动词的变位方式，动词可以分为：
 
-- 强变化动词
-- 弱变化动词
-- 强弱混合变化动词
-- 不规则变化动词
+- 规则（regelmäßig od. schwach）动词（弱变化）
+- 不规则（unregelmäßig od. stark）动词 （强变化）
 
-### 动词时态
+规则动词在变位时，词干保持不变，只是词尾按照人称、时态、单复数、表达方式、动词语态而变化。
 
----
+- suchen – ich suchte
+- machen – ich machte
+- lieben – ich liebte
 
-德语中一共有六种时态：
+不规则动词的变位是变化词干的元音。
 
-- 现在时
-- 现在完成时
-- 过去时
-- 过去完成时
-- 将来时（第一将来时）
-- 将来完成时（第二将来时）
+- singen – ich sang
+- fahren - ich fuhr
+- geben – ich gab
 
-| 时态                     | 德语                   | 汉语       |
-| ------------------------ | ---------------------- | ---------- |
-| 现在时                   | Ich baue               | 我建造     |
-| 现在完成时               | Ich habe gebaut        | 我建造过   |
-| 过去时                   | Ich baute              | 我曾建造   |
-| 过去完成时               | Ich hatte gebaut       | 我曾建造过 |
-| 将来时（第一将来时）     | Ich werde bauen        | 我将建造   |
-| 第二将来时（将来完成时） | Ich werde gebaut haben | 我将建造成 |
+大多数的动词都是规则动词，不规则动词的数量总计不到200个。
 
-通常过去时与完成时表达的含义类似，可以混用；但是在口语中，人们更偏向于用完成时，而在书面语中用过去时。原因是过去式的发音不及完成式的第二分词方便。
+基本上，在区别不同的动词种类时，有三种词干形式：
 
-- Du hast gearbeitet.（完成时）
-- Du arbeitetest.（过去时）
+- 第一种词干形式是动词不定式的现在时，应用于表示现在时。
 
-除命令式和一般疑问句外一般动词在一个句子里被放在第二位（这里的“位”是针对“语法功能词或短语”而言的，而非单个单词）。假如一句话里有助动词，那么这个助动词放在第二位，真正的动词要放在句尾。这就是德语的“框架结构”，即放在第二位的助动词与放在句末的真正表意的实意动词组成一个类似框子一样的结构。此即所谓的“动词第二顺位”。
+    machen, ich mache, du machst, … (regelmäßig)
 
-- Ich baue ein Haus. 我盖一幢房。
-- Ich will ein Haus bauen. 我想要盖一幢房。
+    singen, ich singe, du singst, … (unregelmäßig)
 
-在主从复合句结构中，从句的动词一律被放在句子的最后（以als为连词的非现实比较句除外）：
+- 第二种词干形式是动词不定式的过去时，应用于表示过去时以及第二虚拟式。
 
-- Er sagte, dass die Leiche vom Liao-Kaiser gesalzt wurde. 他说辽国皇帝的遗体被以盐腌渍了起来。
-- Weil seine Mutter ihn sehen wollte. 因为他的母亲想见他。
-- Das Mädchen, das wenige Freunde hat, ist süß. 那个朋友很少的女孩子长得很可爱。
+    ich machte, du machtest, … - ich machte, du machtest, …
+
+    ich sang, du sangst, … – ich sänge, du sängst, …
+
+- 第三中词干形式是过去分词（第二分词）， 通常由前缀ge- 和动词词干加词尾 –t（规则变化时）或和词尾 –en（不规则变化时）构成。
+
+    ge-mach-t
+
+    ge-sung-en
 
 ---
 

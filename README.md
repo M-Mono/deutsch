@@ -15,7 +15,7 @@
 
 ## 编译工具
 
-- [Hugo 0.56.0](https://gohugo.io/)
+- [Hugo 0.56.0](https://gohugo.io/) on Windows x64 version
 - [Hugo Learn Theme 2.3.0](https://learn.netlify.com/en/)
 
 ---
