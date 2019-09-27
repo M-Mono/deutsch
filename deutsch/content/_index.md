@@ -3,7 +3,7 @@ title = ""
 pre = "<i class='fas fa-map-signs'></i> "
 +++
 
-# 超简德语手册
+# 极简德语手册
 
 ---
 

@@ -11,26 +11,34 @@
     
     
     <item>
+      <title>动词变位</title>
+      <link>https://deutsch.yangliu.cloud/das_verb/verbformen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deutsch.yangliu.cloud/das_verb/verbformen/</guid>
+      <description>展开目录……目录  动词概述 动词弱变化 动词强变化及混合变化 助动词变化   动词变位 动词从不定式的形式变成线定式的这种变化，被称为动词变位。德语中只有动词能够变位。
+动词变位有很多不同的形式，常见的有：
+ 词尾或词干变化（表达人称、数量） 通过助动词haben及sein构成变化形式（表达时态） 通过助动词werden构成变化形式（表达被动语态）  动词弱变化  弱变化动词词干元音在所有变化形式都保持不变 过去式在词干于词尾之间加-t 第二分词加前缀加ge-及词尾加-t 展开动词弱变化表   现在时
+Präsens 完成时
+Perfekt 过去时
+Präteritum 过去完成时
+Plusquamperfekt 第一将来时
+Futur I 第二将来时
+Futur II     直陈式
+Indikativ        ich plane ich habe geplant ich plante ich hatte geplant ich werde planen ich werde geplant haben   du planst du hast geplant du plantest du hattest geplant du wirst planen du wirst geplant haben   er/​sie/​es plant er/​sie/​es hat geplant er/​sie/​es plante er/​sie/​es hatte geplant er/​sie/​es wird planen er/​sie/​es wird geplant haben   wir planen wir haben geplant wir planten wir hatten geplant wir werden planen wir werden geplant haben   ihr plant ihr habt geplant ihr plantet ihr hattet geplant ihr werdet planen ihr werdet geplant haben   sie planen sie haben geplant sie planten sie hatten geplant sie werden planen sie werden geplant haben   虚拟式</description>
+    </item>
+    
+    <item>
       <title>动词概述</title>
       <link>https://deutsch.yangliu.cloud/das_verb/das_verb_ueberischt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deutsch.yangliu.cloud/das_verb/das_verb_ueberischt/</guid>
-      <description>展开目录……目录  动词概述 动词的形式 变位方式   动词概述 动词在德语中非常重要，它在句子里起着核心作用。德语动词比较复杂，它在不同人称后面要进行变位，如sein在第一人称单数后变为bin。动词sein 非常重要。它除了作行为动词，也可以作完成时中的助动词，如：Er ist gestern gekommen（他是昨天来的）。
-动词的形式 动词分为限定式（finit）和不限定式（infinit）。不限定式动词顾名思义没有变位，也不显示人称形式。 不限定式动词的形式有：
- 不定式动词，动词原形
-arbeiten
-laufen
-ruhen
- 第一分词（Partzip Präsens / PI）
-arbeitend
-laufend
-ruhend
- 第二分词（Partzip Perfekt / PII）
-gearbeitet
-gelaufen
-geruht
-  限定式动词在语句中有一系列的不同的形式。 动词的变化形式依据以下不同的条件：
+      <description>展开目录……目录  动词形式 变位方式   动词在德语中非常重要，它在句子里起着核心作用。德语动词比较复杂，它在不同人称后面要进行变位，如sein在第一人称单数后变为bin。动词sein非常重要。它除了作行为动词，也可以作完成时中的助动词，例如：Er ist gestern gekommen（他是昨天来的）。
+动词形式 德语动词有限定式（Finit）及不定式（Infinit）两种形式。
+ 德语动词大多数情况下使用时需要通过变位在时态、人称及数量上与主语保持一致，变位的方法是通过改变词干上的词尾。这种经过变位后的动词形式称为限定式（或称人称形式）。
+ Du schreibst Email. （通过把动词schreiben变位成schreibst的形式，以适配主语du所呈现的第二人称、单数、现代时、主动语态及直陈式的形式。）  另外一些情况下不需要进行任何改变就可以使用。这样子的动词形式统称为动词不定式（或称未定动词形式）。
+ Du kannst Email schreiben. （动词schreiben在句中无变位的情况称为动词不定式状态。动词变位由情态动词können完成。）   动词限定式（Finit） 限定式动词在语句中有一系列的不同的形式。 动词的变化形式依据以下不同的条件：
  人称与数格（Grammatische Zahl） 语法时态（Grammatische Zeit） 表达方式（Modus od. Aussageweise） 动词语态（Aktiv od. Passiv）
 Person und Numerus 人称与格数 三种不同的人称以单复数的形式出现：
     单数 复数     第一人称 ich gehe wir gehen   第二人称 du gehst ihr geht   第三人称 er/sie/es geht sie gehen    Tempus 时态 时态有六种：</description>

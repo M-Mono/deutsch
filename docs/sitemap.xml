@@ -11,6 +11,10 @@
   </url>
   
   <url>
+    <loc>https://deutsch.yangliu.cloud/das_verb/verbformen/</loc>
+  </url>
+  
+  <url>
     <loc>https://deutsch.yangliu.cloud/das_verb/das_verb_ueberischt/</loc>
   </url>
   
@@ -48,12 +52,10 @@
   
   <url>
     <loc>https://deutsch.yangliu.cloud/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://deutsch.yangliu.cloud/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -66,52 +68,62 @@
   
   <url>
     <loc>https://deutsch.yangliu.cloud/tags/%E7%A7%98%E7%AC%88/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E4%BB%8B%E8%AF%8D/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E4%BB%8B%E8%AF%8D%E6%90%AD%E9%85%8D/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E5%8A%A8%E4%BB%8B%E6%90%AD%E9%85%8D/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E5%8A%A8%E8%AF%8D/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E5%8A%A8%E8%AF%8D%E5%8F%98%E5%8C%96/</loc>
+  </url>
+  
+  <url>
+    <loc>https://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E5%8A%A8%E8%AF%8D%E5%BC%B1%E5%8F%98%E5%8C%96/</loc>
+  </url>
+  
+  <url>
+    <loc>https://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E5%8A%A8%E8%AF%8D%E5%BC%BA%E5%8F%98%E5%8C%96/</loc>
+  </url>
+  
+  <url>
+    <loc>https://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E5%8A%A8%E8%AF%8D%E6%B7%B7%E5%90%88%E5%8F%98%E5%8C%96/</loc>
+  </url>
+  
+  <url>
+    <loc>https://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E5%8A%A9%E5%8A%A8%E8%AF%8D%E5%8F%98%E5%8C%96/</loc>
   </url>
   
   <url>
     <loc>https://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E6%94%AF%E9%85%8D%E7%AC%AC%E4%B8%89%E5%9B%9B%E6%A0%BC%E4%BB%8B%E8%AF%8D/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E6%94%AF%E9%85%8D%E7%AC%AC%E4%B8%89%E6%A0%BC%E4%BB%8B%E8%AF%8D/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E6%94%AF%E9%85%8D%E7%AC%AC%E4%BA%8C%E4%B8%89%E6%A0%BC%E4%BB%8B%E8%AF%8D/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E6%94%AF%E9%85%8D%E7%AC%AC%E4%BA%8C%E6%A0%BC%E4%BB%8B%E8%AF%8D/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://deutsch.yangliu.cloud/tags/%E8%AF%8D%E6%B3%95%E6%94%AF%E9%85%8D%E7%AC%AC%E5%9B%9B%E6%A0%BC%E4%BB%8B%E8%AF%8D/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
