@@ -38,7 +38,7 @@ weight = 1
 - 过去式在词干于词尾之间加-t
 - 第二分词加前缀加ge-及词尾加-t
 - {{%expand "展开动词弱变化表" %}}
-| 现在时<br>Präsens        | 完成时<br>Perfekt        | 过去时<br>Präteritum | 过去完成时<br>Plusquamperfekt | 第一将来时<br>Futur I           | 第二将来时<br>Futur II                 |
+| 现在时<br>Präsens        | 现在完成时<br>Perfekt    | 过去时<br>Präteritum | 过去完成时<br>Plusquamperfekt | 将来时<br>Futur I               | 将来完成时<br>Futur II                 |
 | ------------------------ | ------------------------ | -------------------- | ----------------------------- | ------------------------------- | -------------------------------------- |
 | **直陈式<br>Indikativ**  |                          |                      |                               |                                 |                                        |
 | ich plane                | ich habe geplant         | ich plante           | ich hatte geplant             | ich werde planen                | ich werde geplant haben                |
@@ -69,7 +69,7 @@ weight = 1
 - 部分词干中元音厚得辅音变化
 - 第二分词前缀加ge-及词尾加-t
 - {{%expand "展开动词强变化及混合变化表" %}}
-| 现在时<br>Präsens        | 完成时<br>Perfekt          | 过去时<br>Präteritum | 过去完成时<br>Plusquamperfekt | 第一将来时<br>Futur I            | 第二将来时<br>Futur II                   |
+| 现在时<br>Präsens        | 现在完成时<br>Perfekt      | 过去时<br>Präteritum | 过去完成时<br>Plusquamperfekt | 将来时<br>Futur I                | 将来完成时<br>Futur II                   |
 | ------------------------ | -------------------------- | -------------------- | ----------------------------- | -------------------------------- | ---------------------------------------- |
 | **直陈式<br>Indikativ**  |                            |                      |                               |                                  |                                          |
 | ich trinke               | ich habe getrunken         | ich trank            | ich hatte getrunken           | ich werde trinken                | ich werde getrunken haben                |
@@ -98,7 +98,7 @@ weight = 1
 
 - sein、haben、werden及wissen这几个助动词变化比较特殊，必须专门进行记忆）
 - {{%expand "展开助动词sein的变化" %}}
-| 现在时<br>Präsens        | 完成时<br>Perfekt       | 过去时<br>Präteritum | 过去完成时<br>Plusquamperfekt | 第一将来时<br>Futur I         | 第二将来时<br>Futur II                |
+| 现在时<br>Präsens        | 现在完成时<br>Perfekt   | 过去时<br>Präteritum | 过去完成时<br>Plusquamperfekt | 将来时<br>Futur I             | 将来完成时<br>Futur II                |
 | ------------------------ | ----------------------- | -------------------- | ----------------------------- | ----------------------------- | ------------------------------------- |
 | **直陈式<br>Indikativ**  |                         |                      |                               |                               |                                       |
 | ich bin                  | ich bin gewesen         | ich war              | ich war gewesen               | ich werde sein                | ich werde gewesen sein                |
@@ -116,7 +116,7 @@ weight = 1
 | sie seien                | sie seien gewesen       | sie wären            | sie wären gewesen             | sie werden/​würden sein       | sie werden/​würden gewesen sein       |
 {{% /expand%}}
 - {{%expand "展开助动词haben的变化" %}}
-| 现在时<br>Präsens        | 完成时<br>Perfekt       | 过去时<br>Präteritum | 过去完成时<br>Plusquamperfekt | 第一将来时<br>Futur I          | 第二将来时<br>Futur II                |
+| 现在时<br>Präsens        | 现在完成时<br>Perfekt   | 过去时<br>Präteritum | 过去完成时<br>Plusquamperfekt | 将来时<br>Futur I              | 将来完成时<br>Futur II                |
 | ------------------------ | ----------------------- | -------------------- | ----------------------------- | ------------------------------ | ------------------------------------- |
 | **直陈式<br>Indikativ**  |                         |                      |                               |                                |                                       |
 | ich habe                 | ich habe gehabt         | ich hatte            | ich hatte gehabt              | ich werde haben                | ich werde gehabt haben                |
@@ -134,7 +134,7 @@ weight = 1
 | sie haben                | sie haben gehabt        | sie hätten           | sie hätten gehabt             | sie werden/​würden haben       | sie werden/​würden gehabt haben       |
 {{% /expand%}}
 - {{%expand "展开助动词werden的变化" %}}
-| 现在时<br>Präsens        | 完成时<br>Perfekt                 | 过去时<br>Präteritum | 过去完成时<br>Plusquamperfekt      | 第一将来时<br>Futur I           | 第二将来时<br>Futur II                          |
+| 现在时<br>Präsens        | 现在完成时<br>Perfekt             | 过去时<br>Präteritum | 过去完成时<br>Plusquamperfekt      | 将来时<br>Futur I               | 将来完成时<br>Futur II                          |
 | ------------------------ | --------------------------------- | -------------------- | ---------------------------------- | ------------------------------- | ----------------------------------------------- |
 | **直陈式<br>Indikativ**  |                                   |                      |                                    |                                 |                                                 |
 | ich werde                | ich bin geworden (worden)         | ich wurde            | ich war geworden (worden)          | ich werde werden                | ich werde geworden (worden) sein                |
@@ -152,7 +152,7 @@ weight = 1
 | sie werden               | sie seien geworden (worden)       | sie würden           | sie wären geworden (worden)        | sie werden/​würden werden       | sie werden/​würden geworden (worden) sein       |
 {{% /expand%}}
 - {{%expand "展开助动词wissen的变化" %}}
-| 现在时<br>Präsens        | 完成时<br>Perfekt        | 过去时<br>Präteritum | 过去完成时<br>Plusquamperfekt | 第一将来时<br>Futur I           | 第二将来时<br>Futur II                 |
+| 现在时<br>Präsens        | 现在完成时<br>Perfekt    | 过去时<br>Präteritum | 过去完成时<br>Plusquamperfekt | 将来时<br>Futur I               | 将来完成时<br>Futur II                 |
 | ------------------------ | ------------------------ | -------------------- | ----------------------------- | ------------------------------- | -------------------------------------- |
 | **直陈式<br>Indikativ**  |                          |                      |                               |                                 |                                        |
 | ich weiß                 | ich habe gewusst         | ich wusste           | ich hatte gewusst             | ich werde wissen                | ich werde gewusst haben                |
